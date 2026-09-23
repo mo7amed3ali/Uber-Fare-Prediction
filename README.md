@@ -78,8 +78,8 @@ The analysis investigated the following questions:
 ```text
 Uber-Fare-Prediction/
 │
-├── task_1.ipynb
-├── Uber Fare Prediction.pdf
+├── Uber_Fare_Prediction_EDA.ipynb
+├── Uber_Fare_Prediction_EDA.pdf
 └── README.md
 ```
 
